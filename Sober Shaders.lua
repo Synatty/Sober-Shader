@@ -1,5 +1,5 @@
 local ScriptName = "Sober Shaders"
-local Speed = 0.001 -- Do 0.001 for realistic, 0.005 for unrealistic
+local Speed = 0.001 -- Do 0.001 for realistic, 0.005 for it to be faster
 
 
 local RunService = game:GetService("RunService")
