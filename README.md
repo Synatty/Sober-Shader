@@ -1,4 +1,4 @@
-# Sober-Shader
+# Sober-Shader V0.0.1
 
 This script is made for roblox studio!!!
 
